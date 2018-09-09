@@ -1,2 +1,3 @@
 # Spaceship-Infinity
-## Structures de Données, Algorithmes
+Projet Structures de Données, Algorithmes à l'Université de Strasbourg.
+> Auteur : Nicolas Laforêt
